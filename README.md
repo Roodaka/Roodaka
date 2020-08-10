@@ -1,6 +1,6 @@
 # Hello There 👋, I'm Cody.
 
-## Full-Stack Developer, Bartender,  
+## Full-Stack Developer, Bartender, Hills walker
 - 🔭 I’m working mostly on Hybrid Mobile Development.
 - 📚 Currently learning Docker and Kubernetes.
 - 🌱 I'm looking to develop and share tools and good practices in regards to Hybrid development and testing.

@@ -1,6 +1,6 @@
 # Hello There 👋, I'm Cody.
 
-## Developer, Bartender, 
+## Full-Stack Developer, Bartender,  
 - 🔭 I’m working mostly on Hybrid Mobile Development.
 - 📚 Currently learning Docker and Kubernetes.
 - 🌱 I'm looking to develop and share tools and good practices in regards to Hybrid development and testing.
@@ -8,10 +8,10 @@
 - ⚡ Fun fact: I don't know how to use a Printer.
 
 ### Topics of interest
-- Natural Language Processing.
-- Docker, Kubernetes, CI/CD.
-- Hybrid (and Native) Mobile Development.
-- Chatbots!
+- 📖 Natural Language Processing.
+- 🐳 Docker, Kubernetes, CI/CD.
+- 📱  Hybrid (and Native) Mobile Development.
+- 🤖 Chatbots!
 
 ### Current Proyects
 Coming soon :)

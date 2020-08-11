@@ -1,4 +1,4 @@
-# Hello There 👋, I'm Cody.
+# Hello There 👋, I'm José, also known as Cody.
 
 ## Full-Stack Developer, Bartender, Hills walker
 - 🔭 I’m working mostly on Hybrid Mobile Development.

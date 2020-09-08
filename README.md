@@ -1,6 +1,6 @@
 # Hello There 👋, I'm José, also known as Cody.
 
-## Full-Stack NodeJS Developer, Bartender, Hills walker, future Father
+## Full-Stack NodeJS Developer, Bartender and future Father
 - 🔭 I’m working mostly on Hybrid Mobile Development.
 - 📚 Currently learning Docker and Kubernetes.
 - 🌱 I'm looking to develop and share tools and good practices in regards to Hybrid development and testing.

@@ -1,15 +1,15 @@
 # Hello There 👋, I'm José, also known as Cody.
 
-## Full-Stack NodeJS Developer, Bartender and future Father
-- 🔭 I’m working mostly on Hybrid Mobile Development.
-- 📚 Currently learning Docker and Kubernetes.
-- 🌱 I'm looking to develop and share tools and good practices in regards to Hybrid development and testing.
+## Full-Stack NodeJS Developer, Bartender and a proud Father
+- 🔭 I’m working mostly on NestJS Development
+- 📚 Currently learning CI/CD and some Docker
+- 🌱 I'm focused on building my own SaaS
 - 👾 Not-so-casual FPS player
 - ⚡ Fun fact: I don't know how to use a Printer.
 
 ### Topics of interest
 - 🐳 Docker, Kubernetes, CI/CD.
-- 📱  Hybrid (and a bit of Native) Mobile Development.
+- 📱  Native Mobile Development.
 - 🤖 Chatbots! I like to do small bots in order to help in everyday tasks.
 
 ### Current Proyects

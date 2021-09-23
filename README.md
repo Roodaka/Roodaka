@@ -1,11 +1,10 @@
 # Hello There 👋, I'm José, also known as Cody.
-26 y.o., he/him, argentinian.
+27 y.o., he/him, argentinian.
 
 ## Full-Stack NodeJS Developer, Bartender and a proud Father 
 - 🔭 Working mostly on NestJS Development.
 - 🌱 I'm focused on building my own SaaS.
 - 👾 Not-so-casual FPS player.
-- ⚡ Fun fact: I don't know how to use a Printer.
 
 ### Topics of interest
 - 🐳 General CI/CD, automation.

@@ -1,29 +1,22 @@
-# Hello There 👋, I'm José, also known as Cody.
-27 y.o., he/him, argentinian.
+# Hello There 👋
+I'm José, also known as Cody. I'm a self-taught Software Developer who loves to improve himself and create random stuff.
 
 ## Full-Stack NodeJS Developer, Bartender and a proud Father 
 - 🔭 Working mostly on NestJS Development.
 - 🌱 I'm focused on building my own SaaS.
 - 👾 Not-so-casual FPS player.
 
-### Topics of interest
-- 🐳 General CI/CD, automation.
-- 📱  Mobile Development (hybrid or native).
-- 🤖 Chatbots! I love to create small bots in order to help in everyday tasks.
-- 🎛️ Siri Shortcuts. 
-
 ### Languages & Frameworks
 - Typescript - Angular, Ionic & NestJS (current stack).
 - SQL - Postgres & MySQL.
-- PHP - SlimPHP, Laravel (first language, almost ten years ago!).
+- PHP - Codeigniter, SlimPHP, Laravel (first language, almost ten years ago!).
 - Swift (training!).
 - Python - TensorFlow & Flask (for some small PoC's).
 - Visual Basic (not working on it anymore).
 
-### I want to learn more about
-- Flutter
-- Angular NgRx
-- SwiftUI
-- Docker
-- Microservices
-- Multitenancy
+### Now learning about
+- 🐳 CI/CD with GitHub Actions
+- 🏬 Multi-tenancy over NestJS and Angular
+- ⛷ Load balancing, proxying and more with NGINX
+- 🤖 Chatbots! I love to create small bots in order to help in everyday tasks
+- 📟 I'm currently researching about Arduino, but in very early stages

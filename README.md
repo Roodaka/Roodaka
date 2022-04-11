@@ -7,11 +7,11 @@ I'm José, also known as Cody. I'm a self-taught Software Developer who loves to
 - 👾 Not-so-casual FPS player.
 
 ## My projects (W.I.P. - descriptions will come soon)
- - VetHelper
- - Marco Polo Travel
- - Dyni Gloves
+ - Veterinary Web App
+ - Travel agency backoffice & website
+ - Finger Tracking Gloves for dynamic input
  - The Bot Guild
- - Lara Mu Online
+ - Retro Gaming Servers
 
 ### Languages & Frameworks
 - Typescript - Angular, Ionic & NestJS (current stack).

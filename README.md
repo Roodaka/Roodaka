@@ -6,6 +6,13 @@ I'm José, also known as Cody. I'm a self-taught Software Developer who loves to
 - 🌱 I'm focused on building my own SaaS.
 - 👾 Not-so-casual FPS player.
 
+## My projects (W.I.P. - descriptions will come soon)
+ - VetHelper
+ - Marco Polo Travel
+ - Dyni Gloves
+ - The Bot Guild
+ - Lara Mu Online
+
 ### Languages & Frameworks
 - Typescript - Angular, Ionic & NestJS (current stack).
 - SQL - Postgres & MySQL.
@@ -13,10 +20,3 @@ I'm José, also known as Cody. I'm a self-taught Software Developer who loves to
 - Swift (training!).
 - Python - TensorFlow & Flask (for some small PoC's).
 - Visual Basic (not working on it anymore).
-
-### Now learning about
-- 🐳 CI/CD with GitHub Actions
-- 🏬 Multi-tenancy over NestJS and Angular
-- ⛷ Load balancing, proxying and more with NGINX
-- 🤖 Chatbots! I love to create small bots in order to help in everyday tasks
-- 📟 I'm currently researching about Arduino, but in very early stages

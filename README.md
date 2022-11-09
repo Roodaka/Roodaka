@@ -6,13 +6,6 @@ I'm José, also known as Cody. I'm a self-taught Software Developer who loves to
 - 🌱 I'm focused on building my own SaaS.
 - 👾 Not-so-casual FPS player.
 
-## My projects (W.I.P. - descriptions will come soon)
- - Veterinary Web App
- - Travel agency backoffice & website
- - Finger Tracking Gloves for dynamic input
- - The Bot Guild
- - Retro Gaming Servers
-
 ### Languages & Frameworks
 #### Working experience
 - Typescript - Angular, Ionic & NestJS (current stack).
